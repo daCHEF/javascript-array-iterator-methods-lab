@@ -12,7 +12,7 @@ const inventors = [
     { first: 'Lise', last: 'Meitner', year: 1878, passed: 1968 },
     { first: 'Hanna', last: 'Hammarström', year: 1829, passed: 1909 },
   ];
-  const people = [
+const people = [
     'Becker, Carl',
     'Beckett, Samuel',
     'Beddoes, Mick',
@@ -54,7 +54,7 @@ const inventors = [
     'Blair, Tony',
     'Blake, William',
   ];
-  const travelMethods = [
+const travelMethods = [
     'car',
     'car',
     'truck',
@@ -70,13 +70,13 @@ const inventors = [
     'car',
     'truck',
   ];
-  const devs = [
+const devs = [
     { name: 'Alex', year: 1988 },
     { name: 'Dani', year: 1986 },
     { name: 'Matt', year: 1970 },
     { name: 'Wes', year: 2015 },
   ];
-  const comments = [
+const comments = [
     { text: 'Love this!', id: 523423 },
     { text: 'Super good', id: 823423 },
     { text: 'You are the best', id: 2039842 },
